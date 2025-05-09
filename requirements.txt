@@ -16,3 +16,6 @@ torchaudio>=1.13.0
 
 # Accelerator for Trainer
 accelerate>=0.20.0
+
+#A100SXM
+cu118
